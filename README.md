@@ -8,7 +8,7 @@ This document provides a detailed overview of the "AWS Ethereum Dataflow Pipelin
 
 ### AWS Lambda
 
-- **Usage**: Executes code to extract data directly from Ethereum nodes or relevant APIs. Scheduled triggers from AWS EventBridge ensure timely data retrieval without manual intervention.
+- **Usage**: Executes code to extract data directly from Ethereum nodes from NowNodes API. Scheduled triggers from AWS EventBridge ensure timely data retrieval without manual intervention.
 
 ### Amazon S3
 
